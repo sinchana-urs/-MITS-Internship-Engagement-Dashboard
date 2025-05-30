@@ -1,0 +1,201 @@
+Student_ID,Department,Internship_Domain,Application_Date,Participation_Status,Internship_Mode,Company_Name
+4174,CSE,Cybersecurity,2022-04-06,Dropped,Hybrid,Infosys
+4507,IT,AI/ML,2023-10-25,Selected,On-site,Zoho
+1860,Mech,Cybersecurity,2022-02-06,Dropped,On-site,Microsoft
+2294,IT,Data Science,2022-10-06,Applied,Hybrid,Microsoft
+2130,Civil,Data Science,2022-08-05,Selected,Hybrid,TCS
+2095,Mech,Cloud Computing,2024-05-16,Applied,On-site,Zoho
+4772,Mech,Blockchain,2024-05-22,Dropped,On-site,Amazon
+4092,EEE,Cybersecurity,2022-03-03,Dropped,Remote,Zoho
+2638,Mech,UI/UX Design,2023-08-19,Dropped,On-site,Google
+3169,IT,Cloud Computing,2023-12-30,Applied,On-site,Infosys
+1466,Mech,Game Development,2023-02-01,Selected,Hybrid,Infosys
+2238,EEE,Data Science,2023-11-30,Selected,On-site,Google
+1330,EEE,Cloud Computing,2024-11-08,Applied,Remote,Zoho
+2482,Civil,Cybersecurity,2022-06-26,Selected,On-site,Google
+3135,IT,Data Science,2023-01-31,Applied,Hybrid,Wipro
+4444,ECE,AI/ML,2023-03-21,Selected,Hybrid,Google
+4171,ECE,Cloud Computing,2022-03-17,Completed,On-site,Microsoft
+3919,Mech,IoT,2022-09-22,Completed,Hybrid,Google
+4735,Civil,Data Science,2023-03-31,Dropped,Remote,Infosys
+1130,CSE,Cybersecurity,2023-12-19,Completed,Remote,Microsoft
+2685,Mech,Web Development,2024-01-05,Completed,On-site,Infosys
+4380,Civil,UI/UX Design,2024-04-30,Completed,On-site,TCS
+1769,IT,DevOps,2022-05-24,Applied,On-site,Amazon
+3391,IT,Blockchain,2024-06-03,Completed,Hybrid,Infosys
+2515,IT,DevOps,2024-12-28,Completed,Remote,Microsoft
+4485,IT,Cybersecurity,2023-01-31,Dropped,Remote,TCS
+3853,IT,Game Development,2024-11-14,Completed,Hybrid,Infosys
+3433,Civil,Game Development,2024-08-05,Completed,Remote,Wipro
+2215,Civil,Web Development,2024-06-09,Selected,On-site,Google
+1955,EEE,Blockchain,2023-07-23,Dropped,On-site,Amazon
+3324,ECE,IoT,2024-11-28,Dropped,On-site,Infosys
+2184,IT,Web Development,2022-04-19,Dropped,Remote,TCS
+1459,CSE,DevOps,2024-12-01,Dropped,On-site,Wipro
+4385,Civil,Web Development,2024-07-23,Dropped,Hybrid,Zoho
+1021,CSE,DevOps,2023-02-02,Dropped,Hybrid,TCS
+3300,CSE,Data Science,2023-09-26,Applied,Remote,Google
+1747,CSE,Game Development,2024-01-03,Completed,Hybrid,TCS
+3904,EEE,Data Science,2022-08-23,Dropped,Hybrid,Wipro
+4632,Civil,UI/UX Design,2023-10-20,Completed,Remote,TCS
+1474,CSE,Blockchain,2024-01-21,Completed,On-site,Wipro
+2082,IT,IoT,2023-08-11,Applied,On-site,Infosys
+3558,Mech,DevOps,2024-10-29,Dropped,On-site,Wipro
+4753,CSE,IoT,2024-08-11,Selected,Remote,Wipro
+3047,EEE,DevOps,2023-05-07,Applied,Hybrid,Amazon
+4547,Civil,Cybersecurity,2024-07-01,Selected,On-site,Wipro
+3747,EEE,Web Development,2022-06-19,Completed,On-site,Wipro
+1975,CSE,UI/UX Design,2024-08-03,Completed,Remote,Zoho
+2806,Civil,Game Development,2024-03-05,Applied,On-site,Infosys
+1189,Mech,DevOps,2023-09-26,Applied,Remote,Google
+4005,CSE,IoT,2022-01-29,Selected,Hybrid,Amazon
+3734,EEE,UI/UX Design,2022-12-05,Dropped,Remote,Zoho
+4005,ECE,AI/ML,2023-05-15,Selected,Remote,Microsoft
+1562,IT,AI/ML,2023-05-26,Applied,Remote,Infosys
+2899,EEE,Data Science,2022-08-05,Selected,Remote,Infosys
+4638,Civil,Game Development,2024-12-29,Applied,Hybrid,Microsoft
+2267,CSE,Cybersecurity,2023-03-21,Selected,Hybrid,Google
+3879,IT,IoT,2024-05-25,Applied,On-site,Wipro
+2528,CSE,Web Development,2022-06-16,Applied,Hybrid,Zoho
+4202,Civil,Web Development,2022-04-01,Applied,Hybrid,TCS
+4556,CSE,IoT,2023-12-15,Dropped,On-site,Amazon
+4890,ECE,Blockchain,2022-02-08,Selected,Hybrid,TCS
+1646,IT,Cybersecurity,2022-06-22,Selected,Remote,Microsoft
+3068,IT,UI/UX Design,2023-10-15,Selected,Remote,Infosys
+3888,Civil,DevOps,2024-01-24,Applied,On-site,Google
+3214,ECE,Blockchain,2024-12-17,Selected,On-site,Infosys
+2297,EEE,DevOps,2023-04-21,Selected,On-site,Amazon
+3435,CSE,DevOps,2023-04-01,Applied,Remote,Infosys
+1600,Mech,Blockchain,2024-04-08,Completed,Hybrid,Infosys
+3363,CSE,Data Science,2024-06-13,Applied,Remote,Amazon
+3061,CSE,AI/ML,2024-10-21,Selected,On-site,Zoho
+1241,EEE,DevOps,2023-01-22,Applied,Hybrid,Zoho
+3041,CSE,Blockchain,2022-12-14,Completed,Hybrid,Amazon
+3824,ECE,Blockchain,2022-07-09,Applied,Remote,Google
+4417,ECE,Cloud Computing,2023-05-20,Selected,On-site,Microsoft
+3612,IT,Data Science,2024-04-03,Completed,Remote,Infosys
+3945,Civil,Game Development,2024-07-17,Dropped,Hybrid,Google
+2363,Mech,Cloud Computing,2024-07-22,Selected,Remote,Infosys
+3139,CSE,Cloud Computing,2022-05-14,Completed,Remote,Microsoft
+2390,CSE,IoT,2022-02-27,Completed,On-site,Zoho
+4003,EEE,AI/ML,2023-11-16,Dropped,On-site,Google
+2478,Civil,Blockchain,2023-11-03,Applied,Hybrid,Wipro
+4499,ECE,AI/ML,2022-06-22,Applied,Remote,Wipro
+3556,Mech,Cybersecurity,2024-03-25,Selected,Remote,Wipro
+1775,IT,IoT,2022-03-21,Dropped,Remote,Zoho
+1034,ECE,Game Development,2024-06-04,Applied,Hybrid,Zoho
+3253,Civil,AI/ML,2022-07-22,Dropped,Hybrid,Microsoft
+4152,IT,Web Development,2024-02-03,Applied,On-site,Infosys
+2955,EEE,DevOps,2022-02-16,Completed,On-site,Microsoft
+2585,EEE,Cybersecurity,2023-10-18,Applied,On-site,Microsoft
+4943,CSE,Data Science,2023-04-16,Dropped,Remote,Zoho
+4459,Civil,Game Development,2024-08-28,Completed,Remote,Wipro
+4073,Mech,Cybersecurity,2024-11-01,Completed,On-site,TCS
+2021,IT,DevOps,2024-01-06,Completed,Remote,Infosys
+4461,ECE,IoT,2024-02-23,Dropped,On-site,Zoho
+3613,Civil,DevOps,2024-08-25,Selected,Hybrid,Wipro
+2129,Civil,Cloud Computing,2022-12-24,Selected,On-site,Google
+4843,EEE,DevOps,2024-08-29,Selected,Hybrid,TCS
+4893,CSE,Cloud Computing,2023-10-30,Dropped,Remote,TCS
+2500,CSE,IoT,2023-01-08,Completed,On-site,Zoho
+1702,IT,UI/UX Design,2024-10-28,Selected,Remote,Amazon
+3449,EEE,Cloud Computing,2023-11-07,Dropped,Hybrid,Infosys
+3777,Civil,Data Science,2022-03-31,Selected,Hybrid,TCS
+2579,Mech,DevOps,2023-11-29,Applied,Hybrid,Zoho
+1161,EEE,DevOps,2023-06-24,Selected,Remote,Zoho
+1201,IT,Data Science,2024-01-02,Selected,Remote,Wipro
+2981,IT,Web Development,2024-05-18,Completed,Remote,Google
+1995,EEE,Blockchain,2022-02-10,Dropped,Remote,Amazon
+3317,IT,UI/UX Design,2024-01-10,Completed,Hybrid,Infosys
+4934,EEE,Game Development,2023-05-17,Completed,Hybrid,Microsoft
+1815,ECE,Cloud Computing,2024-08-16,Completed,On-site,Google
+4342,EEE,Data Science,2024-07-17,Completed,On-site,Google
+1455,EEE,IoT,2023-04-06,Completed,Remote,Wipro
+4533,IT,Cloud Computing,2024-01-02,Selected,Hybrid,TCS
+4798,IT,Blockchain,2024-01-22,Completed,Hybrid,TCS
+2275,CSE,IoT,2024-07-13,Completed,Hybrid,Wipro
+2016,CSE,Cybersecurity,2024-06-27,Dropped,On-site,Zoho
+4773,ECE,DevOps,2023-01-25,Applied,On-site,TCS
+3343,CSE,Cybersecurity,2024-06-01,Selected,Hybrid,Amazon
+4796,EEE,Cloud Computing,2022-09-13,Selected,Hybrid,Infosys
+3767,IT,Blockchain,2023-12-10,Selected,Hybrid,Google
+4820,CSE,UI/UX Design,2023-03-26,Completed,On-site,Google
+1337,CSE,Cloud Computing,2022-01-10,Completed,Hybrid,Amazon
+1878,ECE,Data Science,2024-04-03,Completed,Hybrid,TCS
+2076,Civil,AI/ML,2024-03-08,Dropped,Remote,Google
+1791,ECE,Cloud Computing,2024-05-26,Applied,Remote,Microsoft
+4993,EEE,DevOps,2024-10-25,Completed,On-site,Infosys
+3264,IT,DevOps,2024-10-12,Applied,Hybrid,Infosys
+1763,ECE,Cloud Computing,2023-01-09,Dropped,Hybrid,Google
+3235,CSE,IoT,2024-12-24,Selected,Remote,Wipro
+1379,IT,AI/ML,2022-05-26,Completed,On-site,Google
+1492,IT,Data Science,2022-08-12,Applied,Remote,Wipro
+4112,CSE,Cloud Computing,2022-06-26,Applied,Remote,Google
+2180,ECE,IoT,2024-05-02,Completed,Remote,Microsoft
+3062,CSE,DevOps,2022-03-04,Selected,Remote,Zoho
+4884,Civil,DevOps,2024-04-06,Selected,Hybrid,Infosys
+1064,IT,Blockchain,2024-03-05,Selected,Hybrid,Google
+4928,Mech,Cloud Computing,2023-11-20,Dropped,Remote,Microsoft
+4910,Mech,AI/ML,2022-04-15,Applied,On-site,Wipro
+3568,EEE,Web Development,2023-05-26,Applied,On-site,Wipro
+2367,CSE,AI/ML,2023-01-20,Applied,On-site,Infosys
+2152,CSE,DevOps,2023-02-09,Dropped,On-site,Amazon
+3027,EEE,DevOps,2024-04-02,Applied,Remote,Google
+3695,EEE,Cybersecurity,2023-06-02,Dropped,Hybrid,TCS
+2495,EEE,DevOps,2023-04-21,Selected,On-site,Wipro
+4134,IT,Data Science,2023-12-10,Completed,Remote,Zoho
+2162,Civil,Game Development,2024-02-10,Applied,On-site,Zoho
+2522,CSE,Cloud Computing,2024-11-12,Applied,On-site,Wipro
+3640,IT,AI/ML,2024-09-23,Selected,Remote,Amazon
+1391,EEE,Game Development,2023-11-08,Completed,Hybrid,Amazon
+2698,CSE,IoT,2023-12-15,Dropped,Hybrid,Microsoft
+1418,IT,Web Development,2022-03-24,Completed,Remote,Zoho
+3336,Civil,Data Science,2023-04-02,Selected,Hybrid,Microsoft
+1378,IT,AI/ML,2022-01-01,Selected,Remote,Zoho
+2796,Civil,Game Development,2022-02-20,Completed,Remote,Google
+4561,EEE,Web Development,2023-11-16,Dropped,Remote,Google
+3278,Civil,Cybersecurity,2023-12-18,Dropped,Hybrid,TCS
+4065,CSE,Data Science,2023-03-25,Applied,Remote,Google
+3088,EEE,Data Science,2024-05-30,Dropped,On-site,TCS
+4099,CSE,Cybersecurity,2023-05-03,Completed,Hybrid,Google
+3182,Mech,Cloud Computing,2022-02-03,Selected,Hybrid,Infosys
+1200,ECE,Cybersecurity,2022-04-05,Applied,Hybrid,Google
+2863,Civil,Data Science,2024-12-31,Applied,Hybrid,Microsoft
+1779,ECE,Data Science,2022-06-03,Selected,On-site,Wipro
+3977,ECE,Game Development,2022-09-07,Dropped,Hybrid,Microsoft
+4104,Civil,DevOps,2023-11-05,Selected,Hybrid,Wipro
+4119,EEE,Web Development,2023-03-14,Dropped,Remote,Amazon
+1502,Mech,Cybersecurity,2022-04-28,Selected,Hybrid,Microsoft
+3454,CSE,Web Development,2024-02-10,Completed,On-site,Amazon
+4645,IT,Cybersecurity,2022-09-25,Dropped,On-site,TCS
+2751,CSE,IoT,2024-12-13,Completed,On-site,TCS
+1804,IT,Data Science,2022-08-24,Applied,On-site,Infosys
+3146,CSE,DevOps,2023-01-24,Selected,Hybrid,Google
+3731,Civil,Game Development,2024-09-16,Applied,Hybrid,Microsoft
+2895,Mech,DevOps,2024-02-02,Applied,On-site,Amazon
+3773,IT,DevOps,2023-02-05,Applied,On-site,Wipro
+2570,EEE,DevOps,2023-09-16,Applied,Hybrid,TCS
+1960,CSE,Web Development,2024-02-06,Selected,On-site,Google
+4810,CSE,Cybersecurity,2024-07-07,Applied,Remote,TCS
+3660,IT,UI/UX Design,2024-05-02,Selected,On-site,Wipro
+2485,EEE,IoT,2023-08-01,Selected,On-site,Google
+3690,EEE,AI/ML,2022-03-16,Completed,Remote,Google
+4840,Civil,DevOps,2023-03-11,Dropped,Remote,Amazon
+2028,Civil,Cloud Computing,2022-04-13,Dropped,Hybrid,Amazon
+4289,Civil,Web Development,2024-02-03,Selected,Hybrid,Microsoft
+1502,Civil,Game Development,2024-01-08,Completed,Remote,Microsoft
+3814,Civil,AI/ML,2024-03-16,Selected,Remote,Zoho
+1397,Civil,UI/UX Design,2022-04-08,Selected,Hybrid,Zoho
+1870,Mech,Cloud Computing,2024-03-08,Selected,On-site,Infosys
+3842,EEE,UI/UX Design,2024-05-08,Completed,Remote,TCS
+1392,Civil,AI/ML,2023-03-11,Dropped,Hybrid,Microsoft
+1206,EEE,DevOps,2023-03-23,Completed,On-site,Amazon
+2038,EEE,Cloud Computing,2022-09-06,Applied,Remote,Wipro
+2881,ECE,UI/UX Design,2022-06-15,Completed,On-site,Amazon
+4625,Mech,Game Development,2024-09-10,Completed,Hybrid,TCS
+3939,Civil,Cybersecurity,2024-10-16,Completed,Remote,Zoho
+2484,CSE,Data Science,2023-06-26,Completed,On-site,Amazon
+4762,IT,Cybersecurity,2024-01-29,Dropped,Remote,Infosys
+4646,CSE,AI/ML,2022-03-22,Applied,On-site,TCS
+1863,Mech,Web Development,2022-05-13,Dropped,Hybrid,Zoho
+3790,IT,Data Science,2024-03-07,Dropped,Hybrid,Wipro
